@@ -1,6 +1,3 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/9f724287cf9c5243b8d2/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/video-journal-for-teams-fe/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/9f724287cf9c5243b8d2/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/video-journal-for-teams-fe/test_coverage)
-
 # Video Journal For Teams | Alpaca Videos!
 
 Project deployed here: [https://www.alpacavids.com]
