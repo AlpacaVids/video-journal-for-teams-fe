@@ -66,7 +66,7 @@ const Login = ({isLogged, clearError, loginUser, error}) => {
         </span>
         <div className="auth-content">
           <h1>Welcome Back!</h1>
-          <p>Please sign in</p>
+          <p>Demo sign in: <pre>fwilloughley0 / 4OTUUVDkYT</pre></p>
         {error ? <Alert message={error} type="error" /> : null}
         <Form onSubmit={submitLogin} className="login-form" data-testid="login-form">
         <Form.Item label="Username or Email"labelAlign="left">
